@@ -19,4 +19,4 @@
 14. Recitation Lecture Before Final
 
 
-[Click this link to go to Cormen's book (Introduction to Algorithms)](Textbooks/Introduction_to_Algorithms.pdf)
+[Click this link to go to Michael Baron's book](Textbook/Michael_Baron_Probability_and_Statistics_for_Computer_Scientists.pdf)
